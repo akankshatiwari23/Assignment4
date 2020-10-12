@@ -1,5 +1,4 @@
 import calendar  
-# Enter the month and year  
-yy = int(input("Enter year: "))  
-mm = int(input("Enter month in numbers: "))   
+yy = 2020
+mm = 10
 print(calendar.month(yy,mm)) 
